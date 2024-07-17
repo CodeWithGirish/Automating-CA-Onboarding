@@ -1,14 +1,7 @@
 # Automating CA Onboarding Application
 
-## Table of Contents
-- [Project Description](#project-description)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## IDE
+IntelIj IDEA 2024.1.1
 
 ## Project Description
 The Automatic CA Onboarding Application is designed to automate the workflows involved in CA onboarding and provide respective performance dashboards. The application includes functionalities for user registration, CA form submission, UTM link generation, and email notifications.
@@ -33,42 +26,23 @@ The Automatic CA Onboarding Application is designed to automate the workflows in
 - JDBC for Database Connectivity
 - Email Service (Jakarta Mail API)
 
-## Installation
-1. Clone the repository:
+## Jar file Execution
+1. Locate the file path and open cmd:
     ```bash
-    git clone https://github.com/yourusername/CA-Onboarding-Application.git
+      java -jar file_name.jar
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd CA-Onboarding-Application
-    ```
-3. Ensure you have Java installed. If not, download and install Java from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+2. Ensure you have Java installed. If not, download and install Java.
 4. Setup your database and update the database connection details in the application.
+5. Use own email and app password
 
-## Usage
-1. Compile and run the application:
-    ```bash
-    javac -d bin src/*.java
-    java -cp bin Main
-    ```
-2. Follow the on-screen instructions to use the application.
-
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Databse
+1. DB Name: onboarding
+2. Use your MySql User and pass   
 
 ## Contact
 For any inquiries, please contact:
-- Name: Ben
-- Email: ben@example.com
+- Name: Girish   
+- Email: patilgirish7385@gmail.com
 
 ---
 
