@@ -1,4 +1,4 @@
-# Automatic CA Onboarding Application
+# Automating CA Onboarding Application
 
 ## Table of Contents
 - [Project Description](#project-description)
