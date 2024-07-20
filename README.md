@@ -40,7 +40,8 @@ The Automatic CA Onboarding Application is designed to automate the workflows in
 
 ## Databse
 1. DB Name: onboarding
-2. Use your MySql User and pass   
+   - Tables: user, forminfo
+3. Use your MySql User and pass   
 
 ## Contact
 For any inquiries, please contact:
